@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="DENIAMBROSE" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DENIAMBROSE" src="https://img.shields.io/badge/AMBROSE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
